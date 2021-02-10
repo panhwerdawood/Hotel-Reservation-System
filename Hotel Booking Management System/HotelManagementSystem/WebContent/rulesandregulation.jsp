@@ -28,9 +28,9 @@
 		<li><a href = "rulesandregulation.jsp">Rules and Regulation</a></li>|
 		<li><a href = "adminLogin.jsp">Admin Login</a></li>
 	</ul>
-	<div style = "margin-left:0;" class = "container">
+	<div style = class = "container">
 		<div class = "panel panel-default">
-			<div class = "panel-body">
+		<div class = "panel-body">
 				<strong><h3>Rules & Regulations</h3></strong>
 				<br />
 				<strong><h4 style = "color:#ff0000;">1. Tariff</h4></strong>
@@ -69,8 +69,12 @@
 				<strong><h4 style = "color:#ff0000;">12. Government rules and regulations and application of laws</h4></strong>
 				<p>Guest are requested to observe , abide by confirm to and be bound by all applicable acts and laws and Government rules and regulations in force from time to time.</p>
 				<br />
-			</div>
+			</div></center>
 		</div>
+	</div>
+	<div style="text-align: center; margin-right: 10px; padding-top: 15px;"
+		class="navbar navbar-default">
+		<label>&copy; Copyright Hotel Reservation System 2021 </label>
 	</div>
 </body>
 <script src = "js/jquery.js"></script>

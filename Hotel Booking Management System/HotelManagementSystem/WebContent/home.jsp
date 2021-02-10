@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Hotel Management System Dashboard</title>
+<title>Hotel Reservation System Dashboard</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet"
@@ -29,13 +29,12 @@
 		class="navbar navbar-default">
 	<div class="container-fluid">
 		<div class="navbar-header">
-			<a class="navbar-brand">Hotel Online Reservation</a>
+			<a class="navbar-brand">HOTEL RESERVATION SYSTEM</a>
 		</div>
 	</div>
 	</nav>
 	<div class="container-fluid">
 		<div class="panel panel-default">
-			<div class="panel-body">
 				<div class="container-fluid">
 					<ul class="nav nav-pills">
 						<li class="active"><a href="home.jsp">Home</a></li>
